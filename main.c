@@ -1,9 +1,5 @@
 /*
   Name: Shaan Khan
-  Panther ID: 6112001
-
-  "I affirm that I wrote this program myself without any help from other people
-  or any sources on the internet."
 
   COP4338 Assignment #2: BMP Image Processing
 
@@ -11,11 +7,6 @@
   horizontally, rotated in 90 degree increments, and/or enlarged. The user's
   commands are entered at the command line via getopt() as in previous programs.
   Memory is used efficiently and memory leaks are prevented.
-
-  All test-cases work fine and match those given in the answer key, including 
-  those that involve piping. However, when piping is used, error messages from 
-  bmplib are printed to the console. Despite these messages, the resulting bitmaps
-  are successfully changed as commanded by the user.
 
 */
 
